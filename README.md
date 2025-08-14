@@ -1,7 +1,5 @@
 # KNN-Iris-Classification
-
 ---
-
 ##  Project Overview
 This project demonstrates the **K-Nearest Neighbors (KNN)** algorithm for classifying the famous **Iris dataset**.  
 The dataset contains flower measurements and their species, and KNN is used to predict the species based on the input features.  
